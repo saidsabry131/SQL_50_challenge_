@@ -1,8 +1,13 @@
-/* Write your T-SQL query statement below */
 
-select tb.product_id,tb.first_year ,s.quantity ,s.price
-from sales s
-join (
+with firstYear as(
 select min(s.year ) as first_year ,s.product_id as product_id
 from sales s
-group by s.product_id ) tb on tb.product_id =s.product_id and s.year=tb.first_year;
+group by s.product_id
+)
+
+select fy.product_id,fy.first_year,
+s.quantity ,s.price
+
+from firstYear  fy
+join sales s
+on s.product_id=fy.product_id and s.year=fy.first_year;
