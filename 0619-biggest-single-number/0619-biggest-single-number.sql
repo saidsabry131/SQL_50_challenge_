@@ -1,4 +1,10 @@
-select max(n.num) as num from (select num
-from MyNumbers 
-group by num
-having count(num)=1 ) n
+SELECT 
+    (SELECT TOP 1 n.num 
+     FROM (
+         SELECT num
+         FROM MyNumbers 
+         GROUP BY num
+         HAVING COUNT(num) = 1
+     ) n
+     ORDER BY num DESC
+    ) AS num;
