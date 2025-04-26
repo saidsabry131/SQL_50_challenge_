@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1664-find-users-with-valid-e-mails](https://github.com/saidsabry131/SQL_50_/tree/master/1664-find-users-with-valid-e-mails) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/saidsabry131/SQL_50_/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1801-average-time-of-process-per-machine](https://github.com/saidsabry131/SQL_50_/tree/master/1801-average-time-of-process-per-machine) |
+| [1877-find-followers-count](https://github.com/saidsabry131/SQL_50_/tree/master/1877-find-followers-count) |
 | [2087-confirmation-rate](https://github.com/saidsabry131/SQL_50_/tree/master/2087-confirmation-rate) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/saidsabry131/SQL_50_/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
