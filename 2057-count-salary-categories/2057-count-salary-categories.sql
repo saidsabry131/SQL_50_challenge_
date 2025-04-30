@@ -1,25 +1,19 @@
 /* Write your T-SQL query statement below */
-select  'High Salary' as category,count(b.total) as accounts_count 
-from(
-select sum(income) as total
-from accounts
-group by account_id
-having sum(income) >50000
-) b
-union
-select 'Low Salary' as category,count(b.total) as accounts_count 
-from(
-select sum(income) as total
-from accounts
-group by account_id
-having sum(income) <20000
-) b
+SELECT 'Low Salary' AS category,
+       COUNT(*) AS accounts_count
+FROM accounts
+WHERE income < 20000
 
-union
-select 'Average Salary' as category,count(b.total) as accounts_count 
-from(
-select sum(income) as total
-from accounts
-group by account_id
-having sum(income) between 20000 and 50000
-) b
+UNION ALL
+
+SELECT 'Average Salary' AS category,
+       COUNT(*) AS accounts_count
+FROM accounts
+WHERE income BETWEEN 20000 AND 50000
+
+UNION ALL
+
+SELECT 'High Salary' AS category,
+       COUNT(*) AS accounts_count
+FROM accounts
+WHERE income > 50000;
