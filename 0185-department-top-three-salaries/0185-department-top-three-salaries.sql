@@ -5,7 +5,7 @@ join department d on e.departmentId  =d.id
 where e.salary in (
 select distinct top 3 e2.salary 
 from employee e2
-where e2.departmentId =d.id
+where e2.departmentId =e.departmentId
 order by e2.salary desc
 
 )
