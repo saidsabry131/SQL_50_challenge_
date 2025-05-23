@@ -1,9 +1,13 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
-        Arrays.sort(nums);
-        for(int i=0;i<nums.length-1;i++)
+        Map<Integer,Integer> mp=new HashMap<>();
+        for(int i:nums)
         {
-            if(nums[i]==nums[i+1])
+            mp.put(i,mp.getOrDefault(i,0) + 1);        
+        }
+        for(Map.Entry<Integer,Integer> entry: mp.entrySet())
+        {
+            if(entry.getValue()>=2)
             {
                 return true;
             }
