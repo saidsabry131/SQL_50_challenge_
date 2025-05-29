@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/saidsabry131/SQL_50_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saidsabry131/SQL_50_/tree/master/0217-contains-duplicate) |
 | [0924-fair-candy-swap](https://github.com/saidsabry131/SQL_50_/tree/master/0924-fair-candy-swap) |
@@ -92,4 +93,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1203-print-in-order](https://github.com/saidsabry131/SQL_50_/tree/master/1203-print-in-order) |
+## Math
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
