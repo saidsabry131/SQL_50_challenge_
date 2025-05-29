@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/saidsabry131/SQL_50_/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saidsabry131/SQL_50_/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saidsabry131/SQL_50_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saidsabry131/SQL_50_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saidsabry131/SQL_50_/tree/master/0217-contains-duplicate) |
 | [0924-fair-candy-swap](https://github.com/saidsabry131/SQL_50_/tree/master/0924-fair-candy-swap) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/saidsabry131/SQL_50_/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saidsabry131/SQL_50_/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saidsabry131/SQL_50_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Sorting
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/saidsabry131/SQL_50_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0924-fair-candy-swap](https://github.com/saidsabry131/SQL_50_/tree/master/0924-fair-candy-swap) |
 ## Divide and Conquer
 |  |
