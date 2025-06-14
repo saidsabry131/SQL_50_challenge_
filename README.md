@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saidsabry131/SQL_50_/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/saidsabry131/SQL_50_/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/saidsabry131/SQL_50_/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saidsabry131/SQL_50_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/saidsabry131/SQL_50_/tree/master/0169-majority-element) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/saidsabry131/SQL_50_/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/saidsabry131/SQL_50_/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/saidsabry131/SQL_50_/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/saidsabry131/SQL_50_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saidsabry131/SQL_50_/tree/master/0217-contains-duplicate) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/saidsabry131/SQL_50_/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/saidsabry131/SQL_50_/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/saidsabry131/SQL_50_/tree/master/0217-contains-duplicate) |
 | [0924-fair-candy-swap](https://github.com/saidsabry131/SQL_50_/tree/master/0924-fair-candy-swap) |
@@ -103,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/saidsabry131/SQL_50_/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
