@@ -104,10 +104,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/SQL_50_/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/saidsabry131/SQL_50_/tree/master/0012-integer-to-roman) |
 | [0049-group-anagrams](https://github.com/saidsabry131/SQL_50_/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/saidsabry131/SQL_50_/tree/master/0242-valid-anagram) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/SQL_50_/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
