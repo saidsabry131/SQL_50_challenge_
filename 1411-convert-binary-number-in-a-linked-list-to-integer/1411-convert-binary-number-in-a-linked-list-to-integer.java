@@ -10,19 +10,12 @@
  */
 class Solution {
     public int getDecimalValue(ListNode head) {
-        int cont =0;
+       
         ListNode current = head;
+        int result =0;
         while(current!=null)
         {
-            cont++;
-            current = current.next;
-        }
-        int result = 0;
-        current = head;
-        while(current!=null)
-        {
-            result += current.val * Math.pow(2, cont-1);
-            cont--;
+            result =result*2+ current.val ;
             current = current.next;
         }
         return result;
