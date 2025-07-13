@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/saidsabry131/SQL_50_/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/saidsabry131/SQL_50_/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/saidsabry131/SQL_50_/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0234-palindrome-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0908-middle-of-the-linked-list) |
 ## Sorting
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/saidsabry131/SQL_50_/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -123,4 +125,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/saidsabry131/SQL_50_/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
